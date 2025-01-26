@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "/Users/priyank/Documents/Placement/Backend Task/logs/.bbca96004d3fb95285829299c3bf4266aa479aab-audit.json",
+    "files": [
+        {
+            "date": 1737830186422,
+            "name": "/Users/priyank/Documents/Placement/Backend Task/logs/error-2025-01-26.log",
+            "hash": "9b0561d987b3f2e74d4da2ca3fed5cdc766121e95b72ebb0b37c95c34d44819d"
+        },
+        {
+            "date": 1737918610376,
+            "name": "/Users/priyank/Documents/Placement/Backend Task/logs/error-2025-01-27.log",
+            "hash": "fb7556a6ecbed5d6c00601b36e1b0b9c9f8e4f67a13662e902d465df98c3ae7f"
+        }
+    ],
+    "hashType": "sha256"
+}
